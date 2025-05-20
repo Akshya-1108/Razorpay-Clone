@@ -4,7 +4,11 @@ A responsive clone of the official Razorpay landing page, built with modern HTML
 
 # 📸 Previews
 
-![razorpay preview]()
+![razorpay preview](previews/Screenshot(211).png)
+![razorpay preview](previews/Screenshot(212).png)
+![razorpay preview](previews/Screenshot(213).png)
+![razorpay preview](previews/Screenshot(214).png)
+![razorpay preview](previews/Screenshot(215).png)
 
 ---
 
